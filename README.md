@@ -10,7 +10,7 @@ A modern, responsive, and SEO-optimized portfolio website built with **React.js*
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/preview.png) <!-- Optional: Replace with actual screenshot path -->
+![Portfolio Preview](./public/wamique_portfolio.png) <!-- Optional: Replace with actual screenshot path -->
 
 ---
 
