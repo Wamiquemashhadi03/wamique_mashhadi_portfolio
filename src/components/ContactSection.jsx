@@ -82,18 +82,27 @@ export const ContactSection = () => {
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
                 <a
-                  href="https:linkedin.com/in/wamique-mashhadi-76930a229/"
+                  href="https://linkedin.com/in/wamique-mashhadi-76930a229/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <Linkedin />
                 </a>
-                <a href="https://x.com/WamiqueMashhadi" target="_blank">
+                <a
+                  href="https://x.com/WamiqueMashhadi"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Twitter />
                 </a>
-                <a href="https:instagram.com/wamiquemashhadi03" target="_blank">
+                <a
+                  href="https://instagram.com/wamiquemashhadi03"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <Instagram />
                 </a>
-                <a href="#" target="_blank">
+                <a href="#" target="_blank" rel="noopener noreferrer">
                   <Facebook />
                 </a>
               </div>
